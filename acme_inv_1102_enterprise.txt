@@ -1,0 +1,24 @@
+============================================================
+ACME INDUSTRIAL HARDWARE & CLOUD SERVICES INC.
+1200 Tech Valley Drive, Suite 400, San Francisco, CA 94107
+Tax ID: 94-2849102
+============================================================
+INVOICE
+Invoice Number: INV-2026-1102
+Invoice Date: 2026-09-15
+Due Date: 2026-10-15
+Payment Terms: Net 30
+
+Billed To: CentrAlign Systems Corp
+Accounts Payable Department, 500 Innovation Way, Austin, TX 78701
+
+Itemized Charges:
+1. GPU Infrastructure Cluster Expansion (8x H100 Nodes): $12,000.00
+2. Dedicated Enterprise Solutions Architect Support: $2,800.00
+
+Subtotal: $14,800.00
+Tax (0%): $0.00
+Total Due: $14,800.00 USD
+Payment Instructions: Escrow Wire to SVB Account #99281-229
+Ref: INV-2026-1102
+============================================================

@@ -1,19 +1,2 @@
-# Python bytecode & cache
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.pytest_cache/
-
-# Environments & secrets
-.env
-venv/
-env/
-ENV/
-
-# Sandbox temporary databases
-*.db-journal
-
-# OS files
-.DS_Store
-Thumbs.db
+# Created by pytest automatically.
+*

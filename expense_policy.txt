@@ -1,0 +1,6 @@
+CentrAlign Financial Governance & AP Policy - 2026
+Policy AP-04: Approval Matrix for External Vendor Disbursements
+1. All invoices under $5,000.00 USD may be processed and recorded autonomously.
+2. Any invoice equal to or exceeding $5,000.00 USD requires formal managerial sign-off.
+3. System Integrity: All records must be strictly verified against the database.
+4. Due dates must be recorded strictly in ISO 8601 format (YYYY-MM-DD).

@@ -1,0 +1,24 @@
+============================================================
+ACME INDUSTRIAL HARDWARE & CLOUD SERVICES INC.
+1200 Tech Valley Drive, Suite 400, San Francisco, CA 94107
+Tax ID: 94-2849102
+============================================================
+INVOICE
+Invoice Number: INV-2026-1089
+Invoice Date: 2026-08-20
+Due Date: 2026-09-20
+Payment Terms: Net 30
+
+Billed To: CentrAlign Systems Corp
+Accounts Payable Department, 500 Innovation Way, Austin, TX 78701
+
+Itemized Charges:
+1. High-Performance Compute Cluster - August Allocation: $3,200.00
+2. Dedicated Bandwidth & API Gateway Provisioning: $1,650.00
+
+Subtotal: $4,850.00
+Tax (0%): $0.00
+Total Due: $4,850.00 USD
+Payment Instructions: Wire transfer to SVB Account #99281-229
+Ref: INV-2026-1089
+============================================================
